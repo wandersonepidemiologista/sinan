@@ -7,6 +7,18 @@ A entrada de dados ocorre pela utilização de formulários padronizados para a 
 As bases de dados estão disponíveis em formato RData no link abaixo:
 https://bit.ly/dengueRData
 
+2001_05_30 - DENGUE - Ficha utilizada entre 2000 e 2006
+2009_11_01 - DENGUE - Ficha utilizada entre 2009 e 2013
+2010_10_01 - DENGUE - Ficha utilizada entre 2009 e 2013
+2011_01_21 - DENGUE - Ficha utilizada entre 2009 e 2013
+2013_11_19 - DENGUE - Ficha utilizada entre 2009 e 2013
+2013_12_11 - DENGUE - Ficha utilizada entre 2009 e 2013
+2016_03_14 - DENGUE-CHIKUNGUNYA - Ficha utilizada entre 2016 e 2022
+2014_09_12 - DENGUE - Dicionário de dados
+2011_09_01 - DENGUE - Dicionário de dados
+2011_01_20 - DENGUE - Dicionário de dados
+2000_10_02 - DENGUE - Dicionário de dados
+2005_05_13 - DENGUE - Dicionário de dados
 
 
 # Como citar
